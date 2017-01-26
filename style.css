@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+div#main{
+  height: 100vh;
+}
+
+div#svgWrapper{
+  height: inherit;
+}
+
+
+/*g.axis path,*/
+g.axis g.tick line  {
+  stoke: blue !important;
+}
